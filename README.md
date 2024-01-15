@@ -1,5 +1,6 @@
-A series of projects using python and POO /n
-Ping Pong game that can be played using the keyboard /n
+<p>A series of projects using python and POO </p>
+<p> 1)Ping Pong game that can be played using the keyboard </p>
 
-<img src="[https://your-image-url.type](https://github.com/DeniseMDB/Python_projects/assets/108684469/cdfd41c5-58a2-4eae-bab8-7bb1fa9654e7)https://github.com/DeniseMDB/Python_projects/assets/108684469/cdfd41c5-58a2-4eae-bab8-7bb1fa9654e7" width="200" height="200">
+<img src="https://github.com/DeniseMDB/Python_projects/assets/108684469/e62e15b8-f48c-4032-88c0-b4a5c0230c8a" width="250">
+
 
